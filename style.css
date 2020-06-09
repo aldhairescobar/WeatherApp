@@ -1,0 +1,28 @@
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+body{
+    background-color: #FFD23F;
+}
+
+.weather-app{
+    width: 80vw;
+    margin: 3vh auto;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner {
+    color: #222;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.icon{
+    max-width: 50px;
+    display: inline;
+}
