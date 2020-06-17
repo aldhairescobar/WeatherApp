@@ -31,7 +31,7 @@ body{
     font-family: sans-serif;
     font-weight: bold;
 }
-.icon{
+#icon{
     max-width: 50px;
     display: inline;
 }
