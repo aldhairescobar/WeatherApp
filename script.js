@@ -37,9 +37,6 @@ searchCity = () => {
  * Show the weather data in HTML
  */
 showWeatherData = (weatherData) => {
-
-   const weatherIcon = weatherData.weather[0].icon;
-   document.getElementById('icon').attributes[2].value = `http://openweathermap.org/img/wn/${weatherIcon}@2x.png`
   
   document.getElementById('city-name').innerHTML = weatherData.name
   document.getElementById('weather-type').innerHTML = weatherData.weather[0].main
