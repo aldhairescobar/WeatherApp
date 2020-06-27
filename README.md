@@ -1,6 +1,10 @@
 # WeatherApp
 A simple weather app using JavaScript
 
+## What I learned:
+* How to fetch data from an API.
+* How to access to the API data and show the data to the user using DOM manipulation.
+
 ## Demo:
 
 https://aldhairescobar.github.io/WeatherApp/
